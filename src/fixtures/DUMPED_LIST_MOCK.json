@@ -1,0 +1,17 @@
+{
+    "list": [
+      {
+        "id"             : 100000006879960,
+        "abstract"       : "Voting nearly along party lines, the House approved two articles of impeachment against President Trump, making him the third president in history to face removal by the Senate.",
+        "byline"         : "By NICHOLAS FANDOS and MICHAEL D. SHEAR",
+        "published_date" : "2019-12-18",
+        "section"        : "U.S.",
+        "title"          : "Trump Impeached for Abuse of Power and Obstruction of Congress",
+        "url"            : "https://www.nytimes.com/2019/12/18/us/politics/trump-impeached.html",
+        "views"          : 1,
+        "thumbnail"      : "https://static01.nyt.com/images/2020/01/18/us/18impeach-image-promo2/merlin_166159710_a6428c88-fac1-4ac5-946f-1b3c0ce2e778-thumbStandard.jpg",
+        "img"            : "https://static01.nyt.com/images/2020/01/18/us/18impeach-image-promo2/merlin_166159710_a6428c88-fac1-4ac5-946f-1b3c0ce2e778-mediumThreeByTwo440.jpg"
+      }
+    ],
+    "meta": { "totalCount": 100 }
+}

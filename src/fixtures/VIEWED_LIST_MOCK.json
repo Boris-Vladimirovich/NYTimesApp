@@ -1,0 +1,69 @@
+{
+    "status"      : "OK",
+    "copyright"   : "Copyrights",
+    "num_results" : 100,
+    "results"     : [
+        {
+            "url"            : "https://www.nytimes.com/2019/12/18/us/politics/trump-impeached.html",
+            "adx_keywords"   : "Trump, Donald J;Impeachment;House of Representatives;Pelosi, Nancy;Democratic Party;Republican Party;United States Politics and Government;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;Presidential Election of 2020;Russian Interference in 2016 US Elections and Ties to Trump Associates",
+            "column"         : null,
+            "section"        : "U.S.",
+            "byline"         : "By NICHOLAS FANDOS and MICHAEL D. SHEAR",
+            "type"           : "Article",
+            "title"          : "Trump Impeached for Abuse of Power and Obstruction of Congress",
+            "abstract"       : "Voting nearly along party lines, the House approved two articles of impeachment against President Trump, making him the third president in history to face removal by the Senate.",
+            "published_date" : "2019-12-18",
+            "source"         : "The New York Times",
+            "id"             : 100000006879960,
+            "asset_id"       : 100000006879960,
+            "views"          : 1,
+            "des_facet"      : [
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "TRUMP-UKRAINE WHISTLE-BLOWER COMPLAINT AND IMPEACHMENT INQUIRY",
+                "PRESIDENTIAL ELECTION OF 2020"
+            ],
+            "org_facet" : [
+                "IMPEACHMENT",
+                "HOUSE OF REPRESENTATIVES",
+                "DEMOCRATIC PARTY",
+                "REPUBLICAN PARTY",
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES"
+            ],
+            "per_facet" : [
+                "TRUMP, DONALD J",
+                "PELOSI, NANCY"
+            ],
+            "geo_facet" : "",
+            "media"     : [
+                {
+                    "type"                     : "image",
+                    "subtype"                  : "photo",
+                    "caption"                  : "",
+                    "copyright"                : "Erin Schaff/The New York Times",
+                    "approved_for_syndication" : 1,
+                    "media-metadata"           : [
+                        {
+                            "url"    : "https://static01.nyt.com/images/2020/01/18/us/18impeach-image-promo2/merlin_166159710_a6428c88-fac1-4ac5-946f-1b3c0ce2e778-thumbStandard.jpg",
+                            "format" : "Standard Thumbnail",
+                            "height" : 75,
+                            "width"  : 75
+                        },
+                        {
+                            "url"    : "https://static01.nyt.com/images/2020/01/18/us/18impeach-image-promo2/merlin_166159710_a6428c88-fac1-4ac5-946f-1b3c0ce2e778-mediumThreeByTwo210.jpg",
+                            "format" : "mediumThreeByTwo210",
+                            "height" : 140,
+                            "width"  : 210
+                        },
+                        {
+                            "url"    : "https://static01.nyt.com/images/2020/01/18/us/18impeach-image-promo2/merlin_166159710_a6428c88-fac1-4ac5-946f-1b3c0ce2e778-mediumThreeByTwo440.jpg",
+                            "format" : "mediumThreeByTwo440",
+                            "height" : 293,
+                            "width"  : 440
+                        }
+                    ]
+                }
+            ],
+            "uri" : "nyt://article/c279d401-29e5-571a-94b7-ec8090c4aded"
+        }
+    ]
+}
