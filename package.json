@@ -10,7 +10,7 @@
     "lint": "eslint ./src"
   },
   "dependencies": {
-    "immer": "5.0.1",
+    "immer": "8.0.1",
     "moment": "2.24.0",
     "prop-types": "15.7.2",
     "query-string": "6.9.0",
